@@ -8,5 +8,15 @@
     <string name="tlp1">Telpon Siswa  :</string>
     <string name="alamat">Alamat Siswa*</string>
     <string name="alamat1">Alamat Siswa  :</string>
-  
+    <string name="required">* required fields</string>
+    <string name="sumbit">Sumbit</string>
+    <string name="detail">Detail Siswa</string>
+    <string name="edit">Edit Siswa</string>
+    <string name="back">Back</string>
+    <string name="yes">Yes</string>
+    <string name="no">Tidak</string>
+    <string name="delete">Hapus</string>
+    <string name="update">Edit</string>
+    <string name="attention">Perhatian</string>
+    <string name="tanya">Apakah anda yakin menghapus ini ?</string>
 </resources>
